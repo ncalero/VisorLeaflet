@@ -1,0 +1,153 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [43.533364, -5.631652] 
+    },
+    "properties": {
+    "url":"http://www.gijon.es/directorios/show/10503-albergue-merendero-el-peregrin",
+    "identificador":10503,
+    "locale":"es",
+    "send":"fecha-actualizacion2016-05-27 13:26:09 +0200",
+    "foto":"http://www.gijon.es/data/images/f0/f8/85909/960x720_v1_12009691_1505339736446252_1647887533304958136_n.jpg",
+    "nombre":"Albergue Merendero El Peregrín",
+    "telefono":"652 76 76 01",
+    "fax":"https://www.facebook.com/merenderu.peregrin",
+    "correo-electronico":"<p>17 camas en 5 habitaciones. Sello compostelano. También camas supletorias (previasolicitud)</p><p>WiFI gratis, TV, terraza, restaurante/merendero, zona deparrilla y juegos niños/as</p>",
+    "web":"C/ Profesor Pérez Pimentel, 251",
+    "horario":"43.533364 -5.631652",
+    "direccion":"",
+    "localizacion":"",
+    "categorias":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":"",
+    "FIELD21":"",
+    "FIELD22":"",
+    "FIELD23":"",
+    "FIELD24":"",
+    "FIELD25":"",
+    "FIELD26":"",
+    "FIELD27":"",
+    "FIELD28":"",
+    "FIELD29":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [43.546427, -5.637209]
+    },
+    "properties": {
+    "url":"http://www.gijon.es/directorios/show/10451-gijon-surf-hostel",
+    "identificador":10451,
+    "locale":"es",
+    "send":"fecha-actualizacion2016-05-04 15:07:50 +0200",
+    "foto":"http://www.gijon.es/data/images/f0/f8/85138/812x408_v1_urbanhostel.jpg",
+    "nombre":"Gijón Surf Hostel",
+    "telefono":"985 87 75 94/ 608 20 78 69 Alvaro/ 606 68 19 72 Alejandro",
+    "fax":"Info@gijonsurfhostel.com",
+    "correo-electronico":"http://www.gijonsurfhostel.com",
+    "web":"<p>Alojamiento compartido interactivo. <br/></p><p></p><p>Oferta de actividades de turismo activo: esucela de surf, buceo, vela,paddle surf, skate, surfkate. También tienen posibilidad de paquetesalojamiento + cursos de surf.</p>",
+    "horario":"Camino de las Higueras, 62",
+    "direccion":"Sin clasificar, Turismo, Albergue, Turismo",
+    "localizacion":"",
+    "categorias":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":"",
+    "FIELD21":"",
+    "FIELD22":"",
+    "FIELD23":"",
+    "FIELD24":"",
+    "FIELD25":"",
+    "FIELD26":"",
+    "FIELD27":"",
+    "FIELD28":"",
+    "FIELD29":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [43.465332, -5.592878]
+    },
+    "properties": {
+    "url":"http://www.gijon.es/directorios/show/3229-albergue-juvenil-palacio-san-andres-de-cornellana",
+    "identificador":3229,
+    "locale":"es",
+    "send":"fecha-actualizacion2015-08-26 18:34:46 +0200",
+    "foto":"http://www.gijon.es/data/images/f0/f2/28667/169x133_v1_3084_11101110200694746.jpg",
+    "nombre":"Albergue Juvenil Palacio San Andrés de Cornellana",
+    "telefono":"+34 985 160 673",
+    "fax":"+ 34 984033668",
+    "correo-electronico":"info@alberguegijon.com",
+    "web":"http://www.alberguegijon.com",
+    "horario":"<div style=",
+    "direccion":" al que se puede acceder a pie o utilizando el transporte público o privado.<br/></div><br/><div style=\"text-align: justify;\">Es un palacio de finales del S. XVII",
+    "localizacion":" remodelado en 1992 para su uso como albergue",
+    "categorias":" conservando varios de sus elementos arquitectónicos singulares. Una nueva remodelación en el año 2001 amplía las <span style=\"font-weight: bold;\">plazas del albergue a las 116</span> que posee en la actualidad",
+    "FIELD16":" además de incorporar mejoras que lo convierten en un equipamiento turístico diferente e interesante para el usuario.<br/></div><br/><h3>Horario:</h3><div style=\"text-align: justify;\">El albergue permanece <span style=\"font-weight: bold;\">abierto las 24 horas del día</span>",
+    "FIELD17":" así el usuario puede entrar y salir de el cuando lo necesite",
+    "FIELD18":" siempre respetando el descanso del resto de personas alojadas y del horario de silencio que va desde las 0:00 horas hasta las 8:00 horas.<br/></div><br/><div style=\"text-align: justify;\"><span style=\"font-weight: bold;\">Horario comedor:</span> el desayuno se puede tomar de 8:00 a 9:30",
+    "FIELD19":" la hora de la comida es de 13:00 a 14:30",
+    "FIELD20":" y la de las cena de 20:00 a 21:30. <br/></div><br/><h3>Tipo de habitaciones:</h3><ul><li>20 habitaciones de 4 plazas con baño.</li><li>4 habitaciones individuales con baño.</li><li>1 habitación de 6 plazas.</li><li>1 habitación de 18 plazas.</li></ul><h3>Instalaciones:</h3><ul><li>Sala de estar",
+    "FIELD21":" TV",
+    "FIELD22":" video y sala de juegos.</li><li>Comedor para 80 personas.</li><li>Aulas polivalentes.</li><li>Zona lavado y secado de ropa.</li></ul><h3>Servicios:</h3><ul><li>Punto de información juvenil.</li><li>Ctro. iniciativas juveniles.</li><li>Escuela de formación para el tiempo libre.</li></ul><h3>Residencia de estudiantes:</h3><div style=\"text-align: justify;\">Disponemos de un servicio especialmente destinado a estudiantes",
+    "FIELD23":" con un ambiente idóneo y precios adaptados. 4 modalidades de alojamiento: Sólo alojamiento",
+    "FIELD24":" alojamiento y desayuno",
+    "FIELD25":" media pensión y pensión completa.<br/></div><br/><h3>Reservas:</h3>Descuentos para menores de 26 años en todas las modalidades de alojamiento.<br/><br/><h3>Tarjeta turística:</h3>Punto de venta Gijón Card.<br/><br/><h3>Accesibilidad:</h3><ul><li>Alta:<ul><li>Acceso</li><li>Cafetería</li><li>Restaurante</li><li>Baños</li></ul></li><li>Media:<ul><li>Movilidad interior</li><li>Habitaciones (4 adaptadas)</li></ul></li><li>Baja:<ul><li>Aseos</li></ul></li></ul><h3>Observaciones: </h3><div style=\"text-align: justify;\">El baño accesible se halla en la zona nueva",
+    "FIELD26":" mientras que las duchas situadas en la parte antigua no son accesibles. La habitación se considera practicable por disponer de poco espacio. Gravilla en camino de acceso.<br/></div><br/><br/><h3>Información sobre las salas del Albergue Juvenil Palacio San Andrés de Cornellana</h3><br/><table><thead><tr><th>Salas</th><th>Teatro</th><th>m<sup>2</sup></th><th>Altura</th></tr></thead><tbody><tr><td>Aula</td><td>50</td><td>57</td><td>5</td></tr><tr><td>Capilla</td><td>50</td><td>60</td><td>8</td></tr><tr><td>Comedor - estar<br/></td><td>120</td><td>130</td><td>5</td></tr></tbody></table>\"",
+    "FIELD27":"Camino de los Caleros, s/n. Contrueces - 33209 Gijón",
+    "FIELD28":"43.465332 -5.592878",
+    "FIELD29":"Sin clasificar, Albergue, Alojamiento, Conexion WiFi, RDSI/Cable/ADSL, Parking gratuito, Lavanderia, Salas de reuniones, Zonas verdes, Edificios Municipales, Servicios Municipales, Monumentos, 2010, Turismo, Accesible, Sin clasificar, Gijón con Calidad, Administración, Cultura y Ocio, Albergue, Turismo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [43.53852, -5.673848]
+    },
+    "properties": {
+    "url":"http://www.gijon.es/directorios/show/265-albergue-covadonga",
+    "identificador":265,
+    "locale":"es",
+    "send":"fecha-actualizacion2014-01-22 12:02:25 +0100",
+    "foto":"http://www.gijon.es/data/images/f6/6334/286x120_v1_DirectorioalberguesCovadonga1.JPG",
+    "nombre":"Albergue Covadonga",
+    "telefono":"985 358 434",
+    "fax":"985 319 031",
+    "correo-electronico":"info@alberguecovadonga.com",
+    "web":" ",
+    "horario":"C/Diario el Comercio, s/n.",
+    "direccion":"Servicios Municipales, 2010, Gijón, Alojamientos, Albergue",
+    "localizacion":"",
+    "categorias":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":"",
+    "FIELD21":"",
+    "FIELD22":"",
+    "FIELD23":"",
+    "FIELD24":"",
+    "FIELD25":"",
+    "FIELD26":"",
+    "FIELD27":"",
+    "FIELD28":"",
+    "FIELD29":""
+    }
+  }
+]
+}

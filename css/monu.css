@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+header {
+	background-color: black;  
+	background-image: url("../imgs/logogijon.gif");
+	background-size:150px 110px;
+	/*background-size:     cover;*/                      /* <------ */
+    background-repeat:   no-repeat;
+   /* background-position: center center;*/
+    color: blue;
+	font-family: "arial";
+	text-align: center;
+	height: 15%;
+}
+body #map{
+height: 85%;
+}
+
+.leaflet-popup-content h3{
+	border-bottom: 1px solid black;
+	font-size: large;
+}
+
+.leaflet-popup-content { 
+	text-align: left; 
+	background:#cc9ede; 
+	border: 3px solid purple;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	width: 400px !important;
+		
+} 
+
+.leaflet-popup-content  table{ 
+
+	font-size: small;
+    border-top: 2px solid black;
+    width: 100%;
+}
+.leaflet-popup-content  img{ 
+	height:200px;
+	width: auto;
+}
+.leaflet-popup-content  b{ 
+	font-size: large;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+.leaflet-popup-content-wrapper{ 
+	background:#cc9ede;
+	opacity:0.8;
+} 
+
+.leaflet-popup-tip { 
+	background:#cc9ede; 
+} 
